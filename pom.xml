@@ -91,7 +91,6 @@
         <configuration>
           <failOnMissingWebXml>false</failOnMissingWebXml>
           <packagingExcludes>pom.xml</packagingExcludes>
-          <warSourceDirectory>WebContent</warSourceDirectory>
           <outputDirectory>target</outputDirectory>
         </configuration>
       </plugin>
